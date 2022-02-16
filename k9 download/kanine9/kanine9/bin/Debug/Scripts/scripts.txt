@@ -1,0 +1,20 @@
+_G.Toggle_GUI = "z" -- keybind to open/close gui
+
+--[[ Credits - MrQuack#8010  Showcase - SMOKEZ SQUAD 
+
+]]
+
+--[[
+Hello and welcome to Auratus X. Auratus X is a free scrit hub that amasses scripts from popular exploiting/script sharing areas in the exploiting community. Auratus X is a reliable source because it supports over 150+ Games and has hundreds of scripts implanted.
+
+**The Default Keybind to open is Z , you can change it in the script, scroll down and you'll see it.**
+
+IF IT DOESNT LOAD JUST GIVE IT 5-10 Secs because it has hundreds of scripts.
+
+
+
+]]
+while not game:IsLoaded() do
+    wait(0.1)
+end
+loadstring(game:HttpGet("https://pastebin.com/raw/mtrRP1H1", true))()
